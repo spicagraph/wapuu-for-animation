@@ -1,1 +1,1 @@
-# wapuu-for-animation
+*wapuu-for-animation
