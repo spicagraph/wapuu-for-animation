@@ -3,6 +3,8 @@ wapuu-for-animation
 
 [わぷー](https://github.com/jawordpressorg/wapuu)のパーツをバラバラにした、ai,pdf,SVGファイルです。
 
+- [パーツ一覧](http://spicagraph.github.io/wapuu-for-animation/)
+
 ライセンスは WordPress ソフトウェアと同じく GPL バージョン 2 またはそれ以降の互換ライセンスとなり、プラグインやテーマ内での使用も可能です。
 
 ただし、著作権はキャラクター作成者のカネウチカズコさんが保有します。
